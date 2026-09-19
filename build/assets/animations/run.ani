@@ -1,0 +1,34 @@
+repeat true;
+time 60;
+frame {
+LeftArm 0.00 0.00 0.00,
+RightArm 0.00 0.00 0.00,
+LeftLeg 0.00 0.00 0.00,
+RightLeg 0.00 0.00 0.00,
+Body 0.00 0.00 0.00,
+Head 0.00 0.00 0.00,
+};
+frame {
+LeftArm 0.00 0.00 -45.00,
+RightArm 0.00 0.00 45.00,
+LeftLeg 0.00 0.00 45.00,
+RightLeg 0.00 0.00 -45.00,
+Body 0.00 0.00 0.00,
+Head 0.00 0.00 0.00,
+};
+frame {
+LeftArm 0.00 0.00 0.00,
+RightArm 0.00 0.00 0.00,
+LeftLeg 0.00 0.00 0.00,
+RightLeg 0.00 0.00 0.00,
+Body 0.00 0.00 0.00,
+Head 0.00 0.00 0.00,
+};
+frame {
+LeftArm 0.00 0.00 45.00,
+RightArm 0.00 0.00 -45.00,
+LeftLeg 0.00 0.00 -45.00,
+RightLeg 0.00 0.00 45.00,
+Body 0.00 0.00 0.00,
+Head 0.00 0.00 0.00,
+};
