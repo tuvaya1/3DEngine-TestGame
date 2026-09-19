@@ -1,0 +1,7 @@
+LeftArm la.obj 1.16 6.37 0.00
+RightArm ra.obj -1.16 6.37 0.00
+LeftLeg ll.obj 0.50 3.13 0.00
+RightLeg rl.obj -0.50 3.13 0.00
+Body body.obj 0.00 4.65 0.00
+Head head.obj 0.00 7.55 0.00
+scale 0.07
